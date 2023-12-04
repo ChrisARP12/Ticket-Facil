@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Instalando el paquete 'jspdf'
+```sh
+npm install jspdf
+```
+```sh
+yarn add jspdf
+```
